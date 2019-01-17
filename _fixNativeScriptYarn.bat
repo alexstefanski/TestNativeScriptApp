@@ -1,0 +1,1 @@
+xcopy /y .\yarn-package-manager.js .\node_modules\nativescript
