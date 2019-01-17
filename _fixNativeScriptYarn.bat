@@ -1,1 +1,1 @@
-xcopy /y .\yarn-package-manager.js .\node_modules\nativescript
+xcopy /y .\yarn-package-manager.js .\node_modules\nativescript\lib
